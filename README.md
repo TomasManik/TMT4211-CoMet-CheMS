@@ -1,8 +1,4 @@
-# FME ZeMe - Workshop on digital tools & data management
-<h3 align="center">December $9^{th}$ 2025</h3>
-<div align="center">
-  <img src="data/FME_ZeMe_Workshop_Logo_2025.png" width="600">
-</div>
+# TMT4211 - Computational Methods in Chemistry and Materials Science
 
 ## Quick Start (Google Colab)
 
